@@ -1,0 +1,8 @@
+PetStore is an online retail platform for pet supplies that lets customers browse and search a struc-
+tured catalogue of products (such as food, toys and grooming tools), create and manage user accounts
+to save personal information and view past orders, add items to a persistent shopping cart, and com-
+plete checkout using stored addresses and payment methods; once an order is placed, the system validates
+payment, updates inventory, sends confirmations and status updates (e.g., “Processing,” “Shipped,” “De-
+livered”), while administrators can manage products and stock levels and review orders, and the site sup-
+ports customer-experience features like basic “customers also bought” recommendations and promotion
+codes to streamline and personalize the shopping process.

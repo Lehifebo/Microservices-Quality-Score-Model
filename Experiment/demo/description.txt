@@ -1,0 +1,5 @@
+
+7ep Demo is a web application that lets teams exercise core business workflows in a single, cohesive
+platform: users can register and log in, manage collections of domain resources (create, read, update,
+delete items), perform on-demand mathematical operations via a built-in calculator interface, and oversee
+underlying data through simple administration screens.

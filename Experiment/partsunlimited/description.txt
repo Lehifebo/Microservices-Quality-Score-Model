@@ -1,0 +1,8 @@
+Parts Unlimited MRP is a web based manufacturing resource planning application that lets companies
+manage the full lifecycle of parts supply, from entering customer orders and converting them into pur-
+chase and production work orders, to tracking inventory levels across multiple warehouses and scheduling
+factory operations, while monitoring supplier deliveries, adjusting stock both manually and via automated
+reorder thresholds, and synchronizing data with external sales channels and internal reporting systems.
+Its intuitive dashboard provides real time visibility into order statuses, production queues, inventory alerts
+and performance metrics, enabling operations teams to plan capacity, prevent stock-outs and streamline
+the end to end supply chain workflow.

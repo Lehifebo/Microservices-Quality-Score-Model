@@ -1,0 +1,6 @@
+Spring Pet-Clinic is a web application for a veterinary practice that allows users to manage pet owner
+information and their pets (including names, birth dates and types), schedule and record veterinary visits
+with associated diagnoses and treatment details, and view and update veterinarian profiles; it supports
+user authentication for administrative staff, keeps track of clinic branches and working hours, enables
+searching and filtering of owners and pets, and provides a straightforward UI for registering new pets,
+booking appointments, recording visit histories, and generating simple reports on clinic activity.
